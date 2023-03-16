@@ -1,0 +1,60 @@
+{
+  "starwars": [
+    {
+      "id": 1,
+      "jedi": "Yoda"
+    },
+    {
+      "id": 2,
+      "jedi": "Count Dooku"
+    },
+    {
+      "id": 3,
+      "jedi": "Qui-Gon Jinn"
+    },
+    {
+      "id": 4,
+      "jedi": "Obi-Wan Kenobi"
+    },
+    {
+      "id": 5,
+      "jedi": "Anakin Skywalker"
+    },
+    {
+      "id": 6,
+      "jedi": "Luminara Unduli"
+    },
+    {
+      "id": 7,
+      "jedi": "Kit Fisto"
+    },
+    {
+      "id": 8,
+      "jedi": "Mace Windu"
+    },
+    {
+      "id": 9,
+      "jedi": "Depa Billaba"
+    },
+    {
+      "id": 10,
+      "jedi": "Kanan Jarrus"
+    },
+    {
+      "jedi": "Jack",
+      "id": 11
+    },
+    {
+      "jedi": "Trap",
+      "id": 12
+    },
+    {
+      "jedi": "Aaron Swartz",
+      "id": 13
+    },
+    {
+      "jedi": "Jordan Walke",
+      "id": 14
+    }
+  ]
+}
